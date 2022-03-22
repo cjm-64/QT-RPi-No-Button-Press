@@ -30,13 +30,13 @@ char const* ImageWin = "Image";
 
 //Box & Circle Set Up Name Declarations
 char const* ControlPanel = "Box SetUp Control";
-char const* track_OnOff = "Set Box Position";
-char const* track_val = "Gray Value";
-char const* X_top_left = "X Top Left";
-char const* Y_top_left = "Y Top Left";
-char const* X_size = "Width";
-char const* Y_size = "Height";
-char const* Max_Rad = "Maximum Radius";
+char const* track_OnOff = "Done";
+char const* track_val = "Thresh";
+char const* X_top_left = "X";
+char const* Y_top_left = "Y";
+char const* X_size = "W";
+char const* Y_size = "H";
+char const* Max_Rad = "MaxRad";
 
 //Grey Threshold Declarations
 int thresh_val = 75;
